@@ -83,16 +83,25 @@ Matplotlib Dashboard
 
 ## 📁 Project Structure
 
-```
-Digital-Prescription-Analytics/
+Project_revature/
 │
-├── project_python_file.ipynb
-├── patients_1000.csv
-├── doctors_1000.csv
-├── medicines_1000.csv
-├── prescriptions_1000.csv
-└── README.md
-```
+├── data/              # Contains all raw CSV datasets
+│   ├── patients_1000.csv
+│   ├── doctors_1000.csv
+│   ├── medicines_1000.csv
+│   └── prescriptions_1000.csv
+│
+├── Python-code/       # ETL pipeline and analytics implementation
+│   └── project_python_file.ipynb
+│
+├── sql/               # SQL DDL, queries, and analytics scripts
+│   └── project_sql_query.sql
+│
+├── docs/              # Project documentation and problem statements
+│   ├── Digital Prescription Record Analysis.docx
+│   └── Digital Prescription Problem statement.docx
+│
+└── README.md          # Project documentation
 
 ---
 
