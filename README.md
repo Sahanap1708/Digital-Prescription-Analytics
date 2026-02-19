@@ -79,31 +79,30 @@ Matplotlib Dashboard
 - Matplotlib
 - SQL
 
----
-
 ## 📁 Project Structure
 
+```
 Project_revature/
 │
-├── data/              # Contains all raw CSV datasets
+├── data/                       # Contains all raw CSV datasets
 │   ├── patients_1000.csv
 │   ├── doctors_1000.csv
 │   ├── medicines_1000.csv
 │   └── prescriptions_1000.csv
 │
-├── Python-code/       # ETL pipeline and analytics implementation
+├── Python-code/                # ETL pipeline & analytics
 │   └── project_python_file.ipynb
 │
-├── sql/               # SQL DDL, queries, and analytics scripts
+├── sql/                        # SQL DDL and analytical queries
 │   └── project_sql_query.sql
 │
-├── docs/              # Project documentation and problem statements
+├── docs/                       # Documentation files
 │   ├── Digital Prescription Record Analysis.docx
 │   └── Digital Prescription Problem statement.docx
 │
-└── README.md          # Project documentation
+└── README.md                   # Project documentation
+```
 
----
 
 ## ⚙️ How to Run the Project
 
