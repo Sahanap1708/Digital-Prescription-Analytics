@@ -70,10 +70,10 @@ Project_revature/
 │   ├── medicines_1000.csv
 │   └── prescriptions_1000.csv
 │
-├── Python-code/                # ETL and visualization notebook
+├── ETL/                # ETL and visualization notebook
 │   └── project_python_file.ipynb
 │
-├── sql/                        # SQL schema and analytical queries
+├── ddl_sql/                        # SQL schema and analytical queries
 │   └── project_sql_query.sql
 │
 ├── docs/                       # Project documentation
